@@ -1,3 +1,3 @@
-# Fast.ai course v3 lesson 1
+# Fast.ai course v3 lesson 1 (old)
 
 Note, I've abandoned work on this because they updated the course to v4 and I've decided to use that instead.
